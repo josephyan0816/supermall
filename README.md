@@ -1,5 +1,7 @@
 # supermall
 
+a vue.js project for study vue
+
 ## Project setup
 ```
 npm install
